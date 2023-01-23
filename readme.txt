@@ -1,3 +1,6 @@
-נדב קורין : 204890008
+run ocaml
+#use "compiler.ml"
+create a assambly code using : Code_gen..
 
-טל פרטוש: 312577505
+make "name_of_file"
+run "name_of_file" in terminal
